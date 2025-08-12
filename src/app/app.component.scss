@@ -1,0 +1,54 @@
+.form-wrapper {
+    display: flex;
+    width: 100%;
+
+    .rank-details {
+        text-align: center;
+    }
+
+    > div {
+        width: 100%;
+    }
+
+    .mat-table {
+        width: 100%;
+    }
+
+    .members {
+        position: relative;
+
+        .member-add {
+            position: absolute;
+            right: 8px;
+            top: 8px;
+        }
+
+        .action-link {
+            text-align: right;
+        }
+
+        @media (max-width: 720px) {
+            margin-top: 12px;
+        }
+    }
+
+    @media (max-width: 720px) {
+        display: block;
+    }
+}
+
+.summary {
+    font-size: 12px;
+    b {
+        font-weight: 500;
+    }
+}
+
+.mat-card {
+    margin: 12px 0px;
+}
+
+.sub-header {
+    margin: -12px 0px 28px 0px;
+    font-size: 12px;
+}
