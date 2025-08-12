@@ -26,6 +26,6 @@ jobs:
         env:
           REPO: self
           BRANCH: build
-          FOLDER: dist
+          FOLDER: dist/maplestory-abyssal-expedition
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MESSAGE: "Build: ({sha}) {msg}"
