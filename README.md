@@ -4,7 +4,7 @@ I'm excited to introduce the Abyssal Expedition Calculator!
 
 Just enter your current rank, reputation, and member list, and you’ll receive a list of recommended actions. It also shows how many days you need to reach level 220 to complete the event.
 
-This tool is inspired by oSilent's [spreadsheet](https://docs.google.com/spreadsheets/d/1PdSPiKFQC2zjeSInIJ6hI_LMmu2L0_cmUBMYPTZtCVU/edit?usp=sharing)
+This tool is inspired by oSilent's [spreadsheet](https://docs.google.com/spreadsheets/d/11Dq_FQB-vZ-Ibtj0bfSuJp1ueQXwpe_V/edit?usp=sharing&ouid=114488833043152697646&rtpof=true&sd=true)
 
 Note: The algorithm I developed uses a greedy approach.
 
